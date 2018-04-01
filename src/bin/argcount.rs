@@ -1,5 +1,5 @@
 #![no_std]
-#![feature(linkage, start)]
+#![feature(start)]
 extern crate rworld;
 
 use rworld::prelude::*;
